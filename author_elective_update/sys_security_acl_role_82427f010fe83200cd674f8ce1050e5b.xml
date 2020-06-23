@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-01-24 22:46:34</sys_created_on>
+        <sys_id>82427f010fe83200cd674f8ce1050e5b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_needit.x_58872_needit.needit_user</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_security_acl display_value="x_58872_needit_needit">0a427f010fe83200cd674f8ce1050e58</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_82427f010fe83200cd674f8ce1050e5b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-01-24 22:46:34</sys_updated_on>
+        <sys_user_role display_value="x_58872_needit.needit_user" name="x_58872_needit.needit_user">4e42fb8d0fa83200cd674f8ce1050e72</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>aed4106ddbdc33849df22f17d49619c9</instance_id>
+        <instance_name>dev76051</instance_name>
+        <name>sys_security_acl_role_82427f010fe83200cd674f8ce1050e5b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-01-24 22:46:34</sys_created_on>
+        <sys_id>82427f010fe83200cd674f8ce1050e5b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_needit.x_58872_needit.needit_user</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_security_acl display_value="x_58872_needit_needit">0a427f010fe83200cd674f8ce1050e58</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_82427f010fe83200cd674f8ce1050e5b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-01-24 22:46:34</sys_updated_on>
+        <sys_user_role display_value="x_58872_needit.needit_user" name="x_58872_needit.needit_user">4e42fb8d0fa83200cd674f8ce1050e72</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>]]></payload>
+        <payload_hash>1738570454</payload_hash>
+        <record_name>x_58872_needit_needit.x_58872_needit.needit_user</record_name>
+        <reverted_from/>
+        <source>e9fd6ac61b61101079dffc88cc4bcbe6</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-23 14:31:45</sys_created_on>
+        <sys_id>92fdeac61b61101079dffc88cc4bcb63</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172e1978c740000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-23 14:31:45</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>12fdeac6db61101098f301d0a02fc963</update_guid>
+        <update_guid_history>12fdeac6db61101098f301d0a02fc963:0,13eda6c61c6110100409d5acfce6d1d5:1074532749,65cda2c64c611010a24ec323e168e120:0,a71ce246806110103414bc7fe4254e43:-852871977,56fe5606412110104baf1817f8ba03c5:0,4fdedec293211010004e4e978ddacc6d:1437230147,1ebc1ebd9aa1101064a7f2999c973fd8:0,920c5e7d90a110109a7875c34c2f4da9:519648978,02da4c54cc69501071f4b3ef647b5c20:-592092552</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_58872_needit_needit.x_58872_needit.needit_user">0c1976861ba1101079dffc88cc4bcb54</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-23 15:20:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>2173e124ec03462b84714eb777cfcdd9</sys_id>
+        <sys_metadata>82427f010fe83200cd674f8ce1050e5b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_needit.x_58872_needit.needit_user</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="x_58872_needit_needit">0a427f010fe83200cd674f8ce1050e58</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_82427f010fe83200cd674f8ce1050e5b</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_82427f010fe83200cd674f8ce1050e5b">92fdeac61b61101079dffc88cc4bcb63</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-23 15:20:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
